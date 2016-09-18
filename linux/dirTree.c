@@ -1,5 +1,5 @@
 
-// main.c
+// dirTree.c
 // print directory tree
 
 #include <stdio.h>
